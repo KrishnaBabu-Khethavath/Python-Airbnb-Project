@@ -30,4 +30,8 @@ The dataset contains 20,765 entries and 22 features, including:
 - Watch this project demo video:
 - 
 ![](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.mp4)
-- Watch this project demo video: [Airbnb.mp4](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.mp4)
+- Watch this project demo video:([https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.mp4](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif))
+
+
+- Watch this project demo video:
+  ![Project Demo](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif)
