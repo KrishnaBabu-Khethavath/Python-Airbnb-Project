@@ -26,3 +26,8 @@ The dataset contains 20,765 entries and 22 features, including:
 
 ## Conclusion
 - This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
+
+- Watch this project demo video:
+- 
+![](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.mp4)
+- Watch this project demo video: [Airbnb.mp4](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.mp4)
