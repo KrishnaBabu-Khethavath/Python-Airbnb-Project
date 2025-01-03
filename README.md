@@ -1,5 +1,9 @@
 # Python-Airbnb-Project
 ![](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/airbnb.png)
+
+# Watch this project demo video:
+  ![Project Demo](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif)
+
 ## Objective
 The goal of this project is to:
 
@@ -26,7 +30,3 @@ The dataset contains 20,765 entries and 22 features, including:
 
 ## Conclusion
 - This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
-
-# Watch this project demo video:
-
-  ![Project Demo](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif)
