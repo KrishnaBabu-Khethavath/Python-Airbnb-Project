@@ -12,7 +12,7 @@ The goal of this project is to:
 - 🚨 Detect potential outliers in prices.
 - 💡 Provide recommendations for guests and hosts based on insights.
 
-## 📊 Dataset
+## 📊 Dataset:[Click Here](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/datasets.csv)
 The dataset contains 20,765 entries and 22 features, including:
 - 🆔 id: Unique identifier for each listing
 - 🏷️ name: Title of the Airbnb listing
