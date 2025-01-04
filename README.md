@@ -1,8 +1,8 @@
-# 🐍 [Python Airbnb Project](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project)
+# 🐍 Python Airbnb Project
 
 ![airbnb](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/airbnb.png)
 
-## 📸 Watch this [project demo video](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif):
+## 📸 Watch this project demo video
 ![Project Demo](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/Airbnb.gif)
 
 ## 🎯 Objective
