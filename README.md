@@ -1,4 +1,4 @@
-# 🐍 Python Airbnb Project
+# 🐍 Python Airbnb Data Analysis Project
 
 ![airbnb](https://github.com/KrishnaBabu-Khethavath/Python-Airbnb-Project/blob/main/airbnb.png)
 
